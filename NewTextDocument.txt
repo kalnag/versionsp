@@ -1,1 +1,2 @@
 Add a file to the document
+Modified in master branch to test git merge from github.
